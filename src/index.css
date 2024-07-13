@@ -1,0 +1,22 @@
+
+body {
+  margin: 0;
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+}
+
+#root {
+  width: 100vw;
+}
+
+
+@media (min-width: 400px) and (max-width: 800px) {
+  body {
+    width: 100%;
+  }
+  :root {
+    width: 100%;
+    font-family: "Nunito", sans-serif;
+  }
+}

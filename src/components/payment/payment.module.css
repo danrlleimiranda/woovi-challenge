@@ -1,0 +1,6 @@
+@media (min-width: 300px) and (max-width: 800px) {
+    h3 {
+        text-align: center;
+        color: #4D4D4D;
+    }
+  }
